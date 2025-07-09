@@ -11,7 +11,7 @@ My curiosity led me into the world of web development.
 🚀 My goal is to become a skilled **Full Stack Developer**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiali26)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Samiali2611)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiali26)  [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Samiali2611)
 
 
 
